@@ -4,9 +4,11 @@
 
 ## Identitas
 * Nama Lengkap : Anindita Eka Suci
-* No. Absen : 05
-* NIS : 4664
 * Kelas : XI RPL 4
+* No. Absen : 05
+* NIS : 4664/1383.070
+* Angkatan : 24
+* SMK Telkom Malang
 
 ## API
 * TMDb
